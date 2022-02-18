@@ -22,6 +22,10 @@ impl Component for Index {
             <div>
                 { "Hello, World!" }
             </div>
+            <br/>
+            <div>
+                { "Please please work github actions!" }
+            </div>
         }
     }
 }
